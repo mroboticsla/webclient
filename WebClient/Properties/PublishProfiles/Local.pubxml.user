@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\inetpub\wwwroot\SupremaService</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="addMin.aspx">
+      <publishTime>11/26/2015 11:43:51</publishTime>
+    </File>
+    <File Include="bin/BM5500.dll">
+      <publishTime>08/15/2014 14:35:55</publishTime>
+    </File>
+    <File Include="bin/BMWebService.dll">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/ReaderWebService.dll">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/ScreenCheck Fingerprint Class.dll">
+      <publishTime>12/09/2015 18:12:24</publishTime>
+    </File>
+    <File Include="bin/Suprema.UFMatcher.dll">
+      <publishTime>02/17/2014 00:35:48</publishTime>
+    </File>
+    <File Include="bin/Suprema.UFScanner.dll">
+      <publishTime>02/17/2014 00:35:52</publishTime>
+    </File>
+    <File Include="bin/WebService.dll">
+      <publishTime>12/09/2015 18:13:32</publishTime>
+    </File>
+    <File Include="BMController.svc">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="checkSerial.aspx">
+      <publishTime>11/28/2015 11:27:43</publishTime>
+    </File>
+    <File Include="Controller.svc">
+      <publishTime>09/30/2015 11:33:10</publishTime>
+    </File>
+    <File Include="enroll.aspx">
+      <publishTime>11/25/2015 23:04:29</publishTime>
+    </File>
+    <File Include="production/css/fieldset/fieldset.css">
+      <publishTime>11/26/2015 07:54:09</publishTime>
+    </File>
+    <File Include="production/css/galleria/galleria.css">
+      <publishTime>11/26/2015 07:54:09</publishTime>
+    </File>
+    <File Include="production/css/jquery-fullsizable-theme.css">
+      <publishTime>11/26/2015 07:54:09</publishTime>
+    </File>
+    <File Include="production/css/jquery-fullsizable.css">
+      <publishTime>11/26/2015 07:54:09</publishTime>
+    </File>
+    <File Include="production/css/jquery-fullsizable.png">
+      <publishTime>11/26/2015 07:54:09</publishTime>
+    </File>
+    <File Include="production/css/jquery-ui.css">
+      <publishTime>11/26/2015 07:54:09</publishTime>
+    </File>
+    <File Include="production/css/panel/panel.css">
+      <publishTime>11/26/2015 07:54:09</publishTime>
+    </File>
+    <File Include="production/images/loading.gif">
+      <publishTime>11/26/2015 07:54:09</publishTime>
+    </File>
+    <File Include="production/images/messages.png">
+      <publishTime>11/26/2015 07:54:09</publishTime>
+    </File>
+    <File Include="production/images/ornament.png">
+      <publishTime>11/26/2015 07:54:09</publishTime>
+    </File>
+    <File Include="production/images/passport.png">
+      <publishTime>11/26/2015 07:54:09</publishTime>
+    </File>
+    <File Include="production/images/password-meter.png">
+      <publishTime>11/26/2015 07:54:09</publishTime>
+    </File>
+    <File Include="production/js/fieldset/fieldset.js">
+      <publishTime>11/26/2015 07:54:09</publishTime>
+    </File>
+    <File Include="production/js/galleria/galleria.js">
+      <publishTime>11/26/2015 07:54:09</publishTime>
+    </File>
+    <File Include="production/js/jquery-ui.min.js">
+      <publishTime>11/26/2015 07:54:09</publishTime>
+    </File>
+    <File Include="production/js/jquery.fullsizable.js">
+      <publishTime>11/26/2015 07:54:09</publishTime>
+    </File>
+    <File Include="production/js/jquery.min.js">
+      <publishTime>11/26/2015 07:54:10</publishTime>
+    </File>
+    <File Include="production/js/jquery.touchSwipe.min.js">
+      <publishTime>11/26/2015 07:54:10</publishTime>
+    </File>
+    <File Include="production/js/panel/panel.js">
+      <publishTime>11/26/2015 07:54:10</publishTime>
+    </File>
+    <File Include="production/plugins/cursorposition.js">
+      <publishTime>11/26/2015 07:54:10</publishTime>
+    </File>
+    <File Include="production/plugins/rangyinput.js">
+      <publishTime>11/26/2015 07:54:10</publishTime>
+    </File>
+    <File Include="production/primeui-1.1-min.css">
+      <publishTime>11/26/2015 07:54:10</publishTime>
+    </File>
+    <File Include="production/primeui-1.1-min.js">
+      <publishTime>11/26/2015 07:54:10</publishTime>
+    </File>
+    <File Include="ReaderController.svc">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="SupremaClient.aspx">
+      <publishTime>11/26/2015 08:06:05</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>10/17/2015 18:46:29</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

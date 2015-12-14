@@ -1,0 +1,14 @@
+﻿1>------ Build started: Project: ReaderWebService, Configuration: Release Any CPU ------
+1>C:\Users\desarrollo03\documents\visual studio 2013\Projects\ReaderWebService\ReaderWebService\Client.cs(37,38,37,61): warning CS0618: 'System.Net.Dns.Resolve(string)' is obsolete: 'Resolve is obsoleted for this type, please use GetHostEntry instead. http://go.microsoft.com/fwlink/?linkid=14202'
+1>  ReaderWebService -> C:\Users\desarrollo03\documents\visual studio 2013\Projects\ReaderWebService\ReaderWebService\bin\ReaderWebService.dll
+2>------ Publish started: Project: ReaderWebService, Configuration: Release Any CPU ------
+2>Connecting to C:\inetpub\wwwroot\Service...
+2>Transformed Web.config using C:\Users\desarrollo03\documents\visual studio 2013\Projects\ReaderWebService\ReaderWebService\Web.Release.config into obj\Release\TransformWebConfig\transformed\Web.config.
+2>Copying all files to temporary location below for package/publish:
+2>obj\Release\Package\PackageTmp.
+2>Publishing folder /...
+2>Publishing folder bin...
+2>Site was published successfully file:///C:/inetpub/wwwroot/Service
+2>
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Publish: 1 succeeded, 0 failed, 0 skipped ==========
