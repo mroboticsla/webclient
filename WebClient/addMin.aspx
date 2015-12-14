@@ -1,0 +1,1 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="addMin.aspx.cs" Inherits="WebService.addmin" %>

@@ -1,0 +1,1 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="checkSerial.aspx.cs" Inherits="WebService.checkSerial" %>
